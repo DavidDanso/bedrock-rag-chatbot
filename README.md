@@ -19,9 +19,6 @@ This project shows you how to transform your data into an AI-powered chatbot usi
   - [10. Deploy Tenant Application Microservices](#10-deploy-tenant-application-microservices)
   - [11. Access the Chatbot Application](#11-access-the-chatbot-application)
 - [Cleanup](#cleanup)
-- [License](#license)
-- [Contributing](#contributing)
-- [Support](#support)
 
 ## Overview
 
@@ -152,15 +149,3 @@ chmod +x cleanup.sh
 ```
 
 Also, delete the Cloud9 environment and the EC2 instance role (`Cloud9AdminRole`) if no longer needed.
-
-## License
-
-This project is licensed under the [MIT-0 License](LICENSE).
-
-## Contributing
-
-Contributions are welcome. Please see [CONTRIBUTING.md](CONTRIBUTING.md) for details.
-
-## Support
-
-For issues or questions, please open an issue in this repository.
