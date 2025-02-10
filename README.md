@@ -1,6 +1,6 @@
 # Turn Your Data into an AI Chatbot (RAG) using Amazon Bedrock
 
-This project shows you how to transform your data into an AI-powered chatbot using a Retrieval Augmented Generation (RAG) approach with Amazon Bedrock. The solution leverages AWS Cloud9, EC2, DynamoDB, EKS, Istio, and Cognito to deploy a scalable, multi-tenant chatbot.
+This readme shows you how to transform your data into an AI-powered chatbot using a Retrieval Augmented Generation (RAG) approach with Amazon Bedrock. The solution leverages AWS Cloud9, EC2, DynamoDB, EKS, Istio, and Cognito to deploy a scalable, multi-tenant chatbot.
 
 ## Table of Contents
 
